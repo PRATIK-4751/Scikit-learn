@@ -1,15 +1,2 @@
-Load Data
-   ↓
-Understand Data
-   ↓
-Split (Train / Test)
-   ↓
-Scale (optional)
-   ↓
-Choose Model
-   ↓
-Train (fit)
-   ↓
-Predict
-   ↓
-Evaluate
+**ML Workflow:**  
+Load Data → Understand Data → Train/Test Split → Scale (optional) → Select Model → Train → Predict → Evaluate
